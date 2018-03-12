@@ -9,14 +9,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B.WebApp", "B.WebApp\B.WebA
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build-A.WebApp|Any CPU = Build-A.WebApp|Any CPU
+		Build-B.WebApp|Any CPU = Build-B.WebApp|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D52F312-A40E-4EFD-8C2C-F60A30E0F91F}.Build-A.WebApp|Any CPU.ActiveCfg = Release|Any CPU
+		{5D52F312-A40E-4EFD-8C2C-F60A30E0F91F}.Build-A.WebApp|Any CPU.Build.0 = Release|Any CPU
+		{5D52F312-A40E-4EFD-8C2C-F60A30E0F91F}.Build-B.WebApp|Any CPU.ActiveCfg = Release|Any CPU
+		{5D52F312-A40E-4EFD-8C2C-F60A30E0F91F}.Build-B.WebApp|Any CPU.Build.0 = Release|Any CPU
 		{5D52F312-A40E-4EFD-8C2C-F60A30E0F91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5D52F312-A40E-4EFD-8C2C-F60A30E0F91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D52F312-A40E-4EFD-8C2C-F60A30E0F91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D52F312-A40E-4EFD-8C2C-F60A30E0F91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AC74A0-CB83-4646-BDDD-947318685268}.Build-A.WebApp|Any CPU.ActiveCfg = Release|Any CPU
+		{44AC74A0-CB83-4646-BDDD-947318685268}.Build-B.WebApp|Any CPU.ActiveCfg = Release|Any CPU
+		{44AC74A0-CB83-4646-BDDD-947318685268}.Build-B.WebApp|Any CPU.Build.0 = Release|Any CPU
 		{44AC74A0-CB83-4646-BDDD-947318685268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{44AC74A0-CB83-4646-BDDD-947318685268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44AC74A0-CB83-4646-BDDD-947318685268}.Release|Any CPU.ActiveCfg = Release|Any CPU
